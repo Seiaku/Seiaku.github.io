@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: D.S. Francisco's Journey
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: This is the future Data Scientist Francisco's Jouerney historic blog-site
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,11 +20,11 @@ description: A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  About Me: "This is who I am"
+  Things I like:
+    - Youtube Song: "https://www.youtube.com/watch?v=NZEbZiWMdGE&list=RDNZEbZiWMdGE&index=1"
+    - Favorite Anime: "https://otakustream.tv/anime/kimetsu-no-yaiba/"
+  Author's home: "https://www.twitch.tv"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
